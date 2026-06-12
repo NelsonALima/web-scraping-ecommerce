@@ -1,4 +1,4 @@
-# 🛒 Extrator de Dados de E-commerce via Web Scraping
+# 🛒 Web Scraping de E-commerce
 
 Este é um script Python para coletar informações de um site "que nao existe"
 
